@@ -1,6 +1,8 @@
 /*
-!.gitignore
-!.bashrc
-!.vimrc
-!README.md
+!/.config/i3/
+/.config/i3/*
 !/.config/i3/config
+!/.gitignore
+!/.bashrc
+!/.vimrc
+!/README.md
