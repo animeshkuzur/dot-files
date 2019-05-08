@@ -4,6 +4,7 @@
 !/.config/i3/config
 !/.gitignore
 !/.bashrc
+!/.bash_profile
 !/.vimrc
 !/README.md
 !/.xinitrc

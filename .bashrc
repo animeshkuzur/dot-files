@@ -22,3 +22,4 @@ export HISTIGNORE=":ls:clear:history:"
 export HISTCONTROL=ignoredups
 export PATH="$HOME/esp/xtensa-esp32-elf/bin:$PATH"
 export IDF_PATH="$HOME/esp/esp-idf"
+export PATH="$HOME/.local/bin:$PATH"
